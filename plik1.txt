@@ -1,2 +1,3 @@
 Zmiana1
-Zmiana2
+Zmiana2 zmiana2a
+Zmiana3

@@ -1,4 +1,4 @@
-Zmiana1
+Zmiana1 zmiana1b
 Zmiana2 zmiana2a
 Zmiana3
 Zmiana4

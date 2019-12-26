@@ -6,3 +6,4 @@ oraz
 asystent pomocy
 uproszczenie interfejsu graficznego
 easier
+zmiana 9

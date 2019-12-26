@@ -12,3 +12,5 @@ zmiana8aa
 
 zmiana15
 zmiana16
+
+zmiana17

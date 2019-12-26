@@ -3,3 +3,5 @@ Zmiana2 zmiana2a
 Zmiana3
 Zmiana4
 Zmiana5
+
+zmiana7c

@@ -1,3 +1,8 @@
 zmiana7b
+<<<<<<< HEAD
 
 naprawa błędów - hotFix-001
+oraz
+asystent pomocy
+uproszczenie interfejsu graficznego
+easier

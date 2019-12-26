@@ -1,2 +1,3 @@
 zmiana7b
 asystent pomocy
+uproszczenie interfejsu graficznego
